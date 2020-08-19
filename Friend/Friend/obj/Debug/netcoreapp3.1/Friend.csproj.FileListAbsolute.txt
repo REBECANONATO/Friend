@@ -1,0 +1,12 @@
+D:\GitHub\Projetos_Desafios\Friend\Friend\Friend\bin\Debug\netcoreapp3.1\Friend.exe
+D:\GitHub\Projetos_Desafios\Friend\Friend\Friend\bin\Debug\netcoreapp3.1\Friend.deps.json
+D:\GitHub\Projetos_Desafios\Friend\Friend\Friend\bin\Debug\netcoreapp3.1\Friend.runtimeconfig.json
+D:\GitHub\Projetos_Desafios\Friend\Friend\Friend\bin\Debug\netcoreapp3.1\Friend.runtimeconfig.dev.json
+D:\GitHub\Projetos_Desafios\Friend\Friend\Friend\bin\Debug\netcoreapp3.1\Friend.dll
+D:\GitHub\Projetos_Desafios\Friend\Friend\Friend\bin\Debug\netcoreapp3.1\Friend.pdb
+D:\GitHub\Projetos_Desafios\Friend\Friend\Friend\obj\Debug\netcoreapp3.1\Friend.AssemblyInfoInputs.cache
+D:\GitHub\Projetos_Desafios\Friend\Friend\Friend\obj\Debug\netcoreapp3.1\Friend.AssemblyInfo.cs
+D:\GitHub\Projetos_Desafios\Friend\Friend\Friend\obj\Debug\netcoreapp3.1\Friend.csproj.CoreCompileInputs.cache
+D:\GitHub\Projetos_Desafios\Friend\Friend\Friend\obj\Debug\netcoreapp3.1\Friend.dll
+D:\GitHub\Projetos_Desafios\Friend\Friend\Friend\obj\Debug\netcoreapp3.1\Friend.pdb
+D:\GitHub\Projetos_Desafios\Friend\Friend\Friend\obj\Debug\netcoreapp3.1\Friend.genruntimeconfig.cache
